@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\cicho\OneDrive\Pulpit\template-project-2\main.cpp(1027,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cicho\OneDrive\Pulpit\template-project-2\main.cpp(1029,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cicho\OneDrive\Pulpit\template-project-2\main.cpp(1053,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cicho\OneDrive\Pulpit\template-project-2\main.cpp(1060,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cicho\OneDrive\Pulpit\template-project-2\main.cpp(1065,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs19.vcxproj -> C:\Users\cicho\OneDrive\Pulpit\template-project-2\Debug\szablon2vs19.exe
